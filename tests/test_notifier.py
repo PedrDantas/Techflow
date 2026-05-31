@@ -1,6 +1,7 @@
 """
 Testes unitários para o módulo notifier.py
 Valida a lógica de notificação sem enviar e-mails reais.
+Testes unitários para validação do módulo de notificações
 """
 
 import pytest

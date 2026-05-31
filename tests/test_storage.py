@@ -2,6 +2,7 @@
 Testes unitários para o módulo storage.py
 Valida as operações CRUD de persistência de tarefas.
 Testes unitários para validação da camada de persistência JSON
+Camada de persistência de dados em JSON do TaskFlow
 
 """
 
