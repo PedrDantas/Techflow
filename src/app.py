@@ -5,7 +5,7 @@ Interface CLI principal do TaskFlow - CRUD de tarefas
 
 """
 
-import json
+
 import os
 from datetime import datetime
 from models import Task, TaskStatus, TaskPriority
