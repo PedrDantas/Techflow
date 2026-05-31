@@ -139,6 +139,10 @@ O pipeline é acionado automaticamente em todo `push` para `main`/`develop` e em
 - **Cliente:** Startup de Logística
 
 ---
+## Mudança de Escopo
+Adicionado módulo de notificações por e-mail na Sprint 3.
+
+---
 
 ## 📝 Licença
 
