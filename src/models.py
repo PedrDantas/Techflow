@@ -1,6 +1,7 @@
 """
 Modelos de dados do sistema TaskFlow.
 Define as estruturas Task, TaskStatus e TaskPriority.
+Modelos de dados do TaskFlow: Task, TaskStatus e TaskPriority
 """
 
 from enum import Enum
