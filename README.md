@@ -134,7 +134,7 @@ O pipeline é acionado automaticamente em todo `push` para `main`/`develop` e em
 
 ## 👥 Equipe
 
-- **Desenvolvedor / Gestor de Projetos:** [Seu Nome]
+- **Desenvolvedor / Gestor de Projetos:** pedro dantas
 - **Empresa:** TechFlow Solutions
 - **Cliente:** Startup de Logística
 
