@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Ambientes virtuais
+venv/
+env/
+.env
+.venv
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Dados locais (gerados em runtime)
+data/*.json
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Guias e tutoriais locais (não fazem parte do projeto)
+docs/COMMITS_GUIDE.md
+docs/KANBAN_GUIDE.md
