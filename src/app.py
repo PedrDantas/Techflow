@@ -1,6 +1,8 @@
 """
 TaskFlow - Sistema de Gerenciamento de Tarefas
 TechFlow Solutions | Projeto Ágil
+Interface CLI principal do TaskFlow - CRUD de tarefas
+
 """
 
 import json
