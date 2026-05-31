@@ -1,6 +1,8 @@
 """
 Testes unitários para o módulo models.py
 Valida criação, serialização e comportamento da classe Task.
+ Testes unitários para validação dos modelos de tarefa
+
 """
 
 import pytest
